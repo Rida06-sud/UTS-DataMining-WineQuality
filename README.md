@@ -1,4 +1,3 @@
-# UTS-DataMining-WineQuality
 
 # UTS Data Mining – Klasifikasi Wine Quality
 
